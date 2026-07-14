@@ -1,0 +1,11 @@
+{
+  "name": "mini-socials-skills",
+  "version": "0.1.0",
+  "description": "AI agent skills by Mini Socials. launch-video: turn a one-line prompt into a finished, on-brand launch video through a phased agent workflow (brand-frame, storyboard, audio, visuals, render, ship).",
+  "author": { "name": "Mini Socials", "url": "https://github.com/minilittlechanges-ai" },
+  "homepage": "https://github.com/minilittlechanges-ai/skills",
+  "repository": "https://github.com/minilittlechanges-ai/skills",
+  "license": "MIT",
+  "keywords": ["skills", "launch-video", "video", "remotion", "hyperframes", "content", "social-media", "creator", "ai-agents", "claude-code", "mini-socials"],
+  "skills": ["./skills/"]
+}
